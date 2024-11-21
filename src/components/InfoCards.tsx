@@ -16,7 +16,7 @@ export const InfoCards = () => {
           <Image src="./github-mark.svg" height="32" width="32" alt="github" />
         }
         title="View demo repository"
-        description="Try out ecosystem wallet examples for yourself."
+        description="Build your own ecosystem wallet SDK."
         href="https://github.com/privy-io/ecosystem-sdk-starter"
       />
       <InfoCard

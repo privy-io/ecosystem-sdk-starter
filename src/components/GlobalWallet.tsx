@@ -141,7 +141,7 @@ export const GlobalWalletInfo = () => {
             label="Disconnect"
             onClick={() => {
               logout();
-              toast.success("Successfully disconnected your global wallet!");
+              toast.success("Successfully disconnected your ecosystem wallet!");
             }}
           />
         </div>

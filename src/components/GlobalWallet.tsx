@@ -48,7 +48,7 @@ export const GlobalWalletInfo = () => {
           >
             <CircleDollarSign size={16} />
             <div className="font-medium">Mint NFT</div>
-            <Pill text="SPONSORED" color="#F1F2F9" bg="#64668B" />
+            {/* <Pill text="SPONSORED" color="#F1F2F9" bg="#64668B" /> */}
             {!!mintHash && (
               <SquareArrowOutUpRight
                 size={16}

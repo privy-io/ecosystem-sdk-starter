@@ -6,6 +6,6 @@ export const strawberryConnector = () => {
     id: STRAWBERRY_APP_ID, // The Privy app id of provider application
     name: "Strawberry Fields", // The name of the provider application
     iconUrl: "https://privy-assets-public.s3.amazonaws.com/strawberry.png",
-    smartWalletMode: true,
+    // smartWalletMode: true,
   });
 };
